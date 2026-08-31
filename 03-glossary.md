@@ -35,7 +35,7 @@
 * Coherent Self-Identity is biological rather than metaphysical, independent of species and Magical Mediation, and can degrade or cease through neurological failure or death.
 
 **Collapse**   
-* The failure state in which enforced Magical Inertness ceases and the Magical Medium becomes present.
+* The failure state in which enforced Magical Inertness ceases, and the Magical Medium becomes present.
 * Collapse is acutely hazardous, renders all Higher Expressions inaccessible (except Path Alignment), and exposes the Body to lethal Incompatibility unless normal function is restored.
 
 **Compatibility**
@@ -68,7 +68,7 @@ Compatibility is domain-specific and does not negate Incompatibility.
 * Blur succeeds only if the resolved exertion can be maintained to completion; injury and pain are irrelevant unless they terminate exertion.
 
 **Feedback**
-* A Recognition channel permitted by the World when mediated perception fails and Integration is resisted, enabling reciprocal awareness sufficient to preserve Choice.
+* A Recognition channel permitted by the World when mediated perception fails, and Integration is resisted, enabling reciprocal awareness sufficient to preserve Choice.
 * Feedback manifests as non-verbal awareness when Intent involving the Body intersects, without conveying interpretation, motive, or propositional information.
 
 **Forced Assimilation**  
@@ -88,10 +88,10 @@ Compatibility is domain-specific and does not negate Incompatibility.
 
 **Indexed State**  
 * A condition in which the Body is a stabilized Causal Reference within the World.
-* Actions persist, and overwrite of state requires explicit Permission or higher-order intervention.
+* Actions persist, and overwriting of state requires explicit Permission or higher-order intervention.
 
 **Incompatibility**
-* The absence of a Compatible Magical Medium between a magical process and its target, preventing that process from binding, resolving, or persisting.
+* The ontological inability of a magical process to reconcile with a target that lacks the Magical Medium required for that process to bind, resolve, or persist.
 * Incompatibility is not resistance, suppression, or negation; the process cannot be realized because the required medium is absent at the point of interaction.
 
 **Integration**
@@ -118,12 +118,13 @@ Compatibility is domain-specific and does not negate Incompatibility.
 * If removal of mediation causes a phenomenon to cease or change category, it is not considered physical.
 
 **Magical Medium**
-* The underlying substrate through which Magic binds, resolves, persists, or enforces causality.
+* The ontological substrate through which Magic binds, resolves, persists, or enforces causality.
 * The Body lacks Compatibility with this medium entirely; Magic cannot apply where no medium exists.
 
 **Magically Inert**
-* A property describing the absence of any internal Magical Medium, preventing participation in Magical Mediation.
+* An ontological condition in which matter lacks the Magical Medium required for participation in Magical Mediation.
 * Inert matter cannot couple to, sustain, or transmit non-physical magical forces, while remaining fully subject to ordinary physical processes.
+
 
 **Mutual Recognition** 
 * A state in which the Body and the World are mutually recognized as stabilized causal structures.
@@ -178,7 +179,7 @@ Compatibility is domain-specific and does not negate Incompatibility.
 
 ## Non-Glossary Terms
 
-Not glossary but these terms are not interchangeable. If they come across that way, please point out the mistake. 
+Not glossary, but these terms are not interchangeable. If they come across that way, please point out the mistake. 
 
 1. **Causal handling** (World) — the grouping and treatment of entities during Causal Resolution.
 2. **Engagement** (Body) — interfacing with an already-present recognitional process.
@@ -212,7 +213,7 @@ The World operates only at the level of causal resolution. It cannot directly ap
     - **Persistence** (Body) — the Body continues to exist across resolution attempts, without implying protection, durability, safety, success, or optimization.
 5. Stabilize vs Stable
     - **Stabilize** (World) — a procedural condition in which no further forced resolution is required. Does not imply safety, permanence, success, or protection.
-    - **Stable** (Body) — a descriptive condition in which change is not rapid and coherence is temporarily maintained. Applies to Body state, Path signals, Dominion behavior, and experience.
+    - **Stable** (Body) — a descriptive condition in which change is not rapid, and coherence is temporarily maintained. Applies to Body state, Path signals, Dominion behavior, and experience.
 
 **Short List**
 
