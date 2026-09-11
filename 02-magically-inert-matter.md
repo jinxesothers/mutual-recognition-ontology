@@ -531,10 +531,10 @@ Temporary inerting therefore permits interference with Magical Mediation without
 
 *A different result is observed when Magically Inert matter constitutes a substantial proportion of the material being physically merged. For example, Magically Inert iron may be physically merged with magical metal through forging or melting. Temporary inerting applies to the magical material sufficiently physically merged with the Magically Inert material.*
 
-* **High proportion (10%–99.99% of total merged mass)**
-  * **Onset:** Potentially instantaneous
-  * **Duration:** Several days or longer
-  * **Observed effect:** The transition may become effectively immediate, with extended temporary inerting.
+* *High proportion (10%–99.99% of total merged mass)*
+  * *Onset:* Potentially instantaneous
+  * *Duration:* Several days or longer
+  * *Observed effect:* The transition may become effectively immediate, with extended temporary inerting.
 
 
 ## Replication and Propagation Constraint
