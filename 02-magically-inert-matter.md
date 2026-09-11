@@ -22,7 +22,7 @@ Could this effect, according to current scientific understanding of physical rea
 
 Lack of technology, practical difficulty, rarity, or failure to reproduce an effect within our reality does not, by itself, make an effect magical.
 
-The determination of whether an effect is magical includes the magical mechanism when relevant, even when that mechanism produces an independently physical result. Magically Inert matter can interrupt support of the effect that is supplied by the mechanism. It can also, in some circumstances, disrupt the mechanism itself.
+The determination of whether an effect is magical includes the magical mechanism when relevant, even when that mechanism produces an independently physical result. Magically Inert matter can interrupt support of the effect that is supplied by the mechanism. It can also, depending on circumstances, disrupt the mechanism itself.
 
 This produces three possibilities. 
 
@@ -80,6 +80,8 @@ Inside or outside, depending on the mechanism and effect.
 
 
 
+
+
 ## Magically Inert Condition
 
 Magical Inertness describes an ontological condition in which the Magical Medium is absent from matter.
@@ -92,11 +94,9 @@ Magically Inert matter possesses no resistance to Magic. A Magical effect does n
 
 Magical Inertness also prevents Magical Mediation from directly altering the matter's internal biological or cognitive states. 
 
-
 **Causal Exception**
-* Pre-integration: Magically Inert matter is an Anomaly that World-level resolutions cannot yet resolve.
-* Post-Integration: Magical Inertness no longer prevents Causal Resolution involving Magically Inert matter. World-level causal processes may alter the circumstances, relationships, or temporal state involving the matter without requiring Magical Mediation through it.
-  * Examples: Fate; World-level temporal reversions.
+* Pre-integration: Magically Inert matter is an Anomaly that World-level resolutions (e.g., Fate; World-level temporal reversions) cannot yet resolve.
+* Post-Integration: Magical Inertness no longer prevents Causal Resolution involving Magically Inert matter. World-level causal processes may alter the various states involving the matter without requiring Magical Mediation through it.
 
 
 ### Scope and Transmission of Magical Inertness
@@ -114,7 +114,7 @@ Magical Inertness is not transmitted through energy transmissions. Energy is not
 A magical process may remain active outside the boundary while failing to maintain its mediated component at the boundary itself.
 
 
-### Inheritance Through Reproduction (only method)
+### Inheritance Through Reproduction (only propagation method)
 
 A new biological organism produced solely through the reproduction of Magically Inert organisms will itself be Integrated as a Magically Inert being.
 
@@ -195,7 +195,6 @@ For example, if magic provides propulsion to a physical object, the magical prop
 
 Likewise, magic may produce heat, cold, pressure, radiation, or another physical state. Once that state exists independently, it interacts with Magically Inert matter according to ordinary physical causality.
 
-
 An object created through a magical process can enter or remain within Magically Inert matter normally once the object itself exists independently of Magical Mediation.
 
 These interactions produce various distinct outcomes, which include the following:
@@ -248,24 +247,24 @@ Mental, perceptual, and curse-based effects follow the same interaction rule as 
 
 Nevertheless, a magical effect might produce a physically causal consequence that affects cognition normally. Once independent of Magical Mediation, ordinary physical causality governs it.
 
-The distinction is therefore between a state that requires Magical Mediation and a Physical Phenomenon that no longer does.
+The distinction is therefore between a state that requires Magical Mediation (MM) and a Physical Phenomenon (PP) that no longer does.
 
 Some examples: 
-* A magical alteration of memory cannot directly rewrite physically encoded memory through Magical Mediation.
-  * A physical process that affects the relevant neural structures can do so normally.
-* A magical alteration of sensory or perceptual processing cannot directly alter sensory or perceptual processing within Magically Inert matter.
-  * A Physical Phenomenon can still be produced that affects the senses, such as illusions created through the manipulation of light.
-* A magical alteration that directly imposes fear cannot establish that fear through Magically Inert neural tissue.
-  * A physically produced fear response can affect that tissue normally.
+* MM: A magical alteration of memory cannot directly rewrite physically encoded memory through Magical Mediation.
+  * PP: A physical process that affects the relevant neural structures can do so normally.
+* MM: A magical alteration of sensory or perceptual processing cannot directly alter sensory or perceptual processing within Magically Inert matter.
+  * PP: A Physical Phenomenon can still be produced that affects the senses, such as illusions created through the manipulation of light.
+* MM: A magical alteration that directly imposes fear cannot establish that fear through Magically Inert neural tissue.
+  * PP: A physically produced fear response can affect that tissue normally.
 
 The relevant question is never whether an effect is called a memory alteration, illusion, compulsion, curse, blessing, or other magical category.
 
 The only relevant question is:
 
-**Does the effect require Magical Mediation to establish, alter, or maintain a state within the Magically Inert matter?**
+*Does the effect require Magical Mediation to establish, alter, or maintain a state within the Magically Inert matter?*
 
-If yes, the mediated interaction fails.  
-If no, the effect proceeds according to the mechanism by which it actually operates.
+* If yes, the mediated interaction fails.  
+* If no, the effect proceeds according to the mechanism by which it actually operates.
 
 
 ### Memory
@@ -281,7 +280,6 @@ A magically imposed memory or emotional response will therefore cease when its s
 Memories of experiences that never physically occurred fail to persist when the magical mechanism sustaining them is removed, while physically encoded memories and the consequences of real experiences remain.
 
 Magic cannot restore information that has been physically destroyed unless the restoration itself is achieved through a physically possible mechanism with a sufficient physical source of that information.
-
 
 
 ### Perception
@@ -304,7 +302,7 @@ The distinction is therefore not between a magical cause and a physical percepti
 
 A curse does not bypass Incompatibility merely because it is described as a curse.
 
-If a curse requires Magical Mediation to bind to, alter, or maintain a state within Magically Inert matter, that mediated component cannot resolve through the matter.
+If a curse requires Magical Mediation to alter or bind to a state within Magically Inert matter, that mediated component cannot resolve through the matter.
 
 An independently physical curse state is governed by ordinary physical causality. Its magical origin does not cause it to remain magically sustained.
 
@@ -341,10 +339,6 @@ Conversely, a blessing, which is functionally the opposite of a curse, can be br
 
 
 
-
-
-
-
 ## Interaction Rules
 
 Effects targeting Magically Inert matter cannot resolve through Magical Mediation.
@@ -362,9 +356,7 @@ Objects retain their own properties.
 
 Magical properties remain within the object unless their interaction with Magically Inert matter requires Magical Mediation at the interface.
 
-Magically Inert matter does not make an object Magically Inert through contact.
-
-Incorporating Magically Inert matter into another object likewise does not transfer the condition to the receiving material.
+Magically Inert matter does not make an object Magically Inert through contact. Likewise, incorporating Magically Inert matter into another object does not transfer the condition to the receiving material.
 
 If a construct possesses no independent physical structure, it ceases when its Magical Mediation encounters Magically Inert matter.
 
@@ -377,11 +369,10 @@ Magical conditions continue to operate normally in the space and matter surround
 
 The Magically Inert boundary does not affect Magic from the surrounding environment. It establishes only the limit at which Magical Mediation can no longer operate through the Magically Inert matter.
 
-
 Accordingly:
-* **Outside the boundary**, Magical Mediation may operate normally through compatible matter or space.
-* **At the boundary**, an independently physical consequence may cross or interact with the Magically Inert matter normally, but Magical Mediation cannot operate through the Magically Inert matter.
-* **Within the matter**, states requiring Magical Mediation cannot be established or maintained.
+* *Outside the boundary*, Magical Mediation may operate normally through compatible matter or space.
+* *At the boundary*, an independently physical consequence may cross or interact with the Magically Inert matter normally, but Magical Mediation cannot operate through the Magically Inert matter.
+* *Surrounded by matter*, states requiring Magical Mediation cannot be established or maintained.
 
 Repeated application does not make Magically Inert matter compatible with Magical Mediation. 
 
@@ -428,9 +419,17 @@ An independently existing nonphysical entity is not itself made Magically Inert 
 
 
 
+
+
+
+
+
+
+
+
 ## Temporary Inerting Through Permanent Merging
 
-Magically Inert matter can temporarily inert magical matter through sufficient physical merging or, under certain conditions, through surrounding it with liquid, gas, or plasma.
+Magically Inert matter can temporarily inert magical matter through sufficient physical merging or by surrounding it with liquid, gas, or plasma.
 
 For purposes of temporary inerting, physical merging requires the participating matter to enter a liquid, gaseous, or plasma state in which the materials can physically intermingle. 
 
@@ -458,7 +457,7 @@ One edge case that will almost certainly arise for any Magically Inert being inv
 
 Waste matter: Matter consumed by a Magically Inert organism is Magically Inert while within the being. Once expelled, it ceases to be Magically Inert. However, being-derived matter remains physically merged with the consumed matter; therefore, the resulting waste is temporarily inert under the ordinary merging rule.
 
-*Note: Being surrounded by liquid, gas, or plasma (but not solid matter) temporarily suppresses the magical nature of the surrounded matter while it remains surrounded, even without physical merging. Matter consumed by an organic being counts as being surrounded by liquid and/or gas.*
+*Note: Enclosing within solid matter does not count as surrounding; instead, it counts as interacting at the barrier (e.g., holding an object in the hand). Conversely, swallowing counts as surrounding it in liquids and gas.*
 
 
 ### Suppression
@@ -489,48 +488,46 @@ The affected matter does not become permanently Magically Inert, and the tempora
 Temporary inerting therefore permits interference with Magical Mediation without making Magical Inertness transmissible.
 
 
-
 #### Non-Normative Merging Example
 
 *A human-sized demon is used as the subject of an experiment testing temporary inerting through physical merging. A measured quantity of Magically Inert substance is introduced by syringe injection.*
 
 *Note: Reversion occurs because the demon's state is not innate. An innate state would instead be suppressed and would resume when temporary inerting ends.*
 
+* *Dose: 20% or less*
+  * *Onset:* None
+  * *Duration:* None
+  * *Observed effect:* No measurable inerting.
 
-* **Dose: 20% or less**
-  * **Onset:** None
-  * **Duration:** None
-  * **Observed effect:** No measurable inerting.
+* *Dose: ~30%*
+  * *Onset:* ~3 minutes, with an additional ~3 minutes before complete inerting
+  * *Duration:* ~18 hours
+  * *Observed effect:* Inerting begins but requires additional time to reach full effect.
 
-* **Dose: ~30%**
-  * **Onset:** ~3 minutes, with an additional ~3 minutes before complete inerting
-  * **Duration:** ~18 hours
-  * **Observed effect:** Inerting begins but requires additional time to reach full effect.
+* *Dose: 40%*
+  * *Onset:* ~3 minutes, with an additional ~3 minutes before complete inerting
+  * *Duration:* ~18 hours
+  * *Observed effect:* Minimum observed quantity producing complete inerting
 
-* **Dose: 40%**
-  * **Onset:** ~3 minutes, with an additional ~3 minutes before complete inerting
-  * **Duration:** ~18 hours
-  * **Observed effect:** Minimum observed quantity producing complete inerting
+* *Dose: 100%*
+  * *Onset:* ~1 minute
+  * *Duration:* ~24 hours
+  * *Observed effect:* Complete temporary inerting.
 
-* **Dose: 100%**
-  * **Onset:** ~1 minute
-  * **Duration:** ~24 hours
-  * **Observed effect:** Complete temporary inerting.
+* *Dose: 200%*
+  * *Onset:* ~25 seconds
+  * *Duration:* ~30 hours
+  * *Observed effect:* Complete inerting with substantially faster onset and increased persistence.
 
-* **Dose: 200%**
-  * **Onset:** ~25 seconds
-  * **Duration:** ~30 hours
-  * **Observed effect:** Complete inerting with substantially faster onset and increased persistence.
+* *Dose: 300%*
+  * *Onset:* ~6–8 seconds
+  * *Duration:* ~36 hours
+  * *Observed effect:* Complete inerting with very rapid onset and substantially increased persistence.
 
-* **Dose: 300%**
-  * **Onset:** ~6–8 seconds
-  * **Duration:** ~36 hours
-  * **Observed effect:** Complete inerting with very rapid onset and substantially increased persistence.
-
-* **Dose: 400% or greater**
-  * **Onset:** ~5 seconds or less
-  * **Duration:**  ~36 hours
-  * **Observed effect:** Onset approaches the limits of practical observation, with little additional change in duration.
+* *Dose: 400% or greater*
+  * *Onset:* ~5 seconds or less
+  * *Duration:*  ~36 hours
+  * *Observed effect:* Onset approaches the limits of practical observation, with little additional change in duration.
 
 *A different result is observed when Magically Inert matter constitutes a substantial proportion of the material being physically merged. For example, Magically Inert iron may be physically merged with magical metal through forging or melting. Temporary inerting applies to the magical material sufficiently physically merged with the Magically Inert material.*
 
@@ -538,9 +535,6 @@ Temporary inerting therefore permits interference with Magical Mediation without
   * **Onset:** Potentially instantaneous
   * **Duration:** Several days or longer
   * **Observed effect:** The transition may become effectively immediate, with extended temporary inerting.
-
-
-
 
 
 ## Replication and Propagation Constraint
@@ -554,8 +548,6 @@ Only matter possessing the original Magically Inert condition can serve as the s
 An organic being is considered to be in a solid state for purposes of physical merging, even if it is largely composed of liquids. Biological processes such as consumption and organ transplantation do not constitute qualifying permanent merging with the Magically Inert being for purposes of temporary inerting.
 
 Furthermore, a Magically Inert being that possesses Coherent Self-Identity at the time of merging retains that identity and remains permanently Magically Inert, even when merging with a sentient magical being. This does not propagate the condition.
-
-
 
 
 ---
@@ -575,14 +567,14 @@ Furthermore, a Magically Inert being that possesses Coherent Self-Identity at th
 
 ## Definition / Nature of Magical Inertness
 
-**Magical Inertness**
+Magical Inertness:
 
-* is intrinsic;
-* originates from ontological provenance;
-* exists independently of Recognition;
-* applies to the matter itself;
-* has no external field or spatial extension; and
-* does not propagate to other matter.
+* is intrinsic
+* originates from ontological provenance
+* exists independently of Recognition
+* applies to the matter itself
+* has no external field or spatial extension
+* does not propagate to other matter
 
 Magically Inert matter has an ontological **Incompatibility** with the Magical Medium. It cannot operate through Magically Inert matter, while ordinary physical causality remains valid.
 
