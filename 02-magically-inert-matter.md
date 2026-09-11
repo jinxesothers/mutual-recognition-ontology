@@ -627,6 +627,6 @@ At any point of interaction:
 Magical Inertness is therefore an **ontological condition, not a defensive effect**.  
 It does not depend on life, consciousness, agency, or biological structure.  
 
-The fundamental condition is:
+The fundamental condition is:  
 **The Magical Medium is absent from matter originating from a reality in which no Magical Medium exists.**  
 **Recognition does not make a magical interaction physically possible or introduce a Magical Medium. It provides a separate resolution layer.**  
