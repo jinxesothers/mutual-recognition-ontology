@@ -461,18 +461,18 @@ _Somatic awareness commonly resolves as an externalized examination of the Body,
 
 ## Outward Feedback (Directed Intent Awareness)
 
-When physical awareness of another agent is established, directed Intent toward the Body will be registered as Feedback, manifesting as a sense of pressure, orientation, or presence.
+When the Body becomes physically aware of another agent, that agent’s Intent toward the Body registers as Feedback, an intuitive sense of pressure, orientation, or presence.
 
-In narrative expression, Intent is similar to intuition but perceived as concise directional impressions. 
-Examples include intent to deceive, follow procedure, protect, pursue, withdraw, become hostile, or to project killing intent. These impressions also provide a felt sense of actions another agent is about to take.
+In narrative expression, Outward Feedback feels like intuition about another agent’s intent: a direct impression of what that agent is inclined to do, without knowing why.  
+Examples include sensing an intent to deceive, follow procedure, protect, pursue, withdraw, become hostile, or project killing intent. These impressions can also give a felt sense of what another agent is about to do.  
 
-Feedback strength scales with proximity and mutual awareness. One-sided awareness produces weak or diffuse sensation; reciprocal awareness produces clearer and more persistent pressure. This escalation reflects mutual awareness rather than inference or evaluation.
+Feedback strength scales with proximity and mutual awareness. One-sided awareness produces weak or diffuse sensation; reciprocal awareness produces clearer and more persistent pressure. This escalation reflects mutual awareness, not inference or evaluation.
 
-These signals do not convey propositional information, reasoning, plans, or justification. It conveys only the presence, direction, and intensity of Intent involving the Body. Hostile or predatory Intent is felt as such, without explanation.
+These impressions do not reveal thoughts, reasoning, plans, or explanations. They convey only the presence, direction, and intensity of Intent involving the Body. Hostile or predatory Intent feels hostile or predatory, without revealing its cause.
 
-Directed Intent is sensed regardless of it being enacted or held mentally, including instinctive or non-verbal Intent, provided awareness intersects.
+Directed Intent is sensed whether enacted or held mentally, including instinctive or non-verbal Intent, provided awareness intersects.
 
-When hostile Intent is recognized and Path indicates that continuation is failing, the window for deliberative delay can fail, and the Body commits earlier to available actions.
+When hostile Intent is recognized, and Path indicates that continuation is failing, the window for deliberative delay can fail, and the Body commits earlier to available actions.
 
 If no viable continuation exists, Blur becomes the only remaining declaration. Training governs whether early commitment realizes as effective action or fails.
 
@@ -483,8 +483,8 @@ Mutual non-hostile Intent clarifies perceived guidance under pressure through al
 Diffuse, unfocused Intent produces ambient pressure without clear direction.  
 Identity-oriented Intent produces persistent pressure tied to Recognition of the Body as a known entity.
 
-Mutual aligned Intent can occur without Contract, but only Contracts permit the World to evaluate multiple agents as a single causal unit.
-Mutual aligned Intent produces the strongest and most coherent signal, without granting safety, authority, or certainty.
+Mutually aligned Intent can occur without Contract, but only Contracts permit the World to evaluate multiple agents as a single causal unit.
+Mutually aligned Intent produces the strongest and most coherent signal, without granting safety, authority, or certainty.
 
 Awareness of Intent does not imply consent, shared responsibility, or shared consequence.
 
