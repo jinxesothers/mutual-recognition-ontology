@@ -539,7 +539,7 @@ They just stress **different layers**
 *Emotional State*
 Emotions are felt differently after Indexing.  
 
-Emotional salience and morality tracks Recognition, not violence. Body becomes selectively emotional.
+Emotional salience tracks Recognition. Moral understanding remains intact, but emotional responses depend on the Body’s investment in the people or things involved.
 
 Examples: 
 Does not track: atrocity, killings or murder. Does not have an innate caring of life in a general sense. 
