@@ -907,6 +907,7 @@ Convergence may also be entered when:
 * Feedback manifests as Fate Intent, an overwhelming recognitional pressure in which all viable continuations are resolved as closed. Exposure commonly manifests as hopelessness or terminal clarity.
   * Less resilient entities withdraw or panic. More resilient entities can exhibit heightened focus, fervor, or uncompromising commitment, remaining fully functional while unable to escape awareness of closure.
   * Fate-sensitive entities perceive this pressure with heightened intensity.
+* Experiential Recognition (ER) can now replay any past event that occurred in the presence of the World or the Body.
 * Blur’s effects are realized without exhaustion and without normal limits on recognized possession.
 * Dominion can be expanded or sustained without resistance for the duration required.
 * Jinx prevents any entity whose magical systems remain causally opposed to the World’s enforced resolution from activating any non-passive magical ability for as long as the World refuses to clean the damage.
