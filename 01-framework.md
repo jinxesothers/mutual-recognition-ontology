@@ -1,3 +1,7 @@
+NOTE: BLUR CAUSES EXAUSTION SO THAT MEANS IT COUNTS AS CARDIO
+
+
+
 # World Conduct and Mutual Recognition
 
 The ***World*** is not benevolent.
@@ -34,7 +38,6 @@ From the process of achieving Indexing arise the ***Higher Expressions***. These
 * ***Path***, through which the Body recognizes whether viable ***continuation*** remains possible.
 * ***Blur***, through which the World recognizes the Body as capable of committing to and completing an action. 
 
-Neither of these exist to protect the Body. They exist as consequences of continued Mutual Recognition, preserving Choice long enough for resolution to avoid overwrite, because overwrite closes off a form of resolution that, once lost, cannot be recovered.  
 Neither of these exist to protect the Body. They exist as consequences of continued Mutual Recognition, preserving the pathway through which Choice can remain meaningfully exercised long enough for resolution to avoid overwrite, because overwrite closes off a form of resolution that, once lost, cannot be recovered.
 
 With Path and Blur simultaneously established, causal agency allows Indexing to resolve the Body’s Magical Inertness as an observable causal condition that can now be properly investigated by the World. It takes the form of the third primary Higher Expression.
@@ -49,7 +52,7 @@ Any benefit to the Body is incidental to this function.
 Because the Body is Magically Inert, temporary withdrawal of the Dominion field does not permit any direct, resolution-level restoration, enhancement, or regeneration.  
 Deferral exists only within Contract-mediated states and represents the only available mechanism for extending continuation short of reversing causality or invoking ***Convergence***, both of which carry extreme cost.
 
-Delay does not soften outcomes: damage is not mitigated and lethality is not reduced. The World simply refrains from closure while the Body continues to function as a coherent causal participant. Deferral ends the moment Choice is no longer meaningfully exercised, or when the conditions sustaining Deferral are lost.  
+Delay does not soften outcomes: damage is not mitigated, and lethality is not reduced. The World simply refrains from closure while the Body continues to function as a coherent causal participant. Deferral ends the moment Choice is no longer meaningfully exercised, or when the conditions sustaining Deferral are lost.  
 
 The World does not demand obedience. It requires commitment.
 
@@ -107,7 +110,7 @@ The World resolves unresolved Anomalies with maximal efficiency toward causal cl
 
 Integration is the preferred resolution, in which an entity is incorporated fully into the World’s causal structure. Integration proceeds without preserving Choice; the entity is no longer permitted to participate in causal determination.
 
-***Causal Resolution*** cannot proceed through erasure, nonexistence, or reversion to an origin reality; only Integration or stabilized causal participation restore causal closure.
+***Causal Resolution*** cannot proceed through erasure, nonexistence, or reversion to an origin reality; only Integration or stabilized causal participation restores causal closure.
 ***Incompatibility*** concerns the absence of a Magical Medium through which Magic can operate, while Integration concerns the World’s attempt to resolve an entity causally; these operate at different ontological layers.
 
 When Integration encounters Coherent Self-Identity, the World shifts its preferred resolution to Indexing. To preserve causal closure while keeping Choice meaningfully exercisable, the World permits minimal reciprocal awareness through Feedback.
@@ -115,7 +118,7 @@ When Integration encounters Coherent Self-Identity, the World shifts its preferr
 Mutual Recognition can arise, and Indexing becomes the preferred route to stabilized causal participation, in which the Body functions as a causal reference and continues to exercise Choice.
 
 If Choice is meaningfully exercised, Indexing will continue to serve as the preferred resolution pathway. 
-If Choice is not meaningfully exercised, the Indexed State enters failure and the World resumes Integration through Forced Assimilation.
+If Choice is not meaningfully exercised, the Indexed State enters failure, and the World resumes Integration through Forced Assimilation.
 
 Indexing is the only known way to create Dominion.
 
@@ -132,8 +135,8 @@ Indexing is the only known way to create Dominion.
 ### Post-Indexing Availability
 
 * Path, Blur, Dominion, Feedback, and Contract-mediated interactions are available only while the Body is Indexed and not in ***Collapse***.
-* Prior to Mutual Recognition and Indexing, the Body remains an Anomaly and is subject to eventual Integration
-* During Collapse, expression and ***engagement*** of all Higher Expressions fails, regardless of prior state
+* Before Mutual Recognition and Indexing, the Body remains an Anomaly and is subject to eventual Integration
+* During Collapse, expression and ***engagement*** of all Higher Expressions fail, regardless of prior state
 
 
 # FOUNDATIONAL PRINCIPLE
@@ -179,7 +182,7 @@ Magic applies only once it has fully resolved into independent physical effects 
 An effect is considered a ***Physical Phenomenon*** only when it persists and operates solely through local physical law without ongoing Magical Mediation.
 Effects that produce real forces or conditions interact with the Body through local physical law, not through Magical Mediation as a matter of causal handling.
 
-Examples include but are not limited to:
+Examples include, but are not limited to:
 
 * Magical fire producing heat
 * Conjured matter possessing mass and inertia
@@ -279,7 +282,7 @@ Primary axis: Intent
 Secondary axis: ***Conviction***
 
 Intent defines the desired outcome or state.  
-Conviction is the user’s willingness to accept the consequences of committing to pursuit of that outcome without forcing direction or result.
+Conviction is the user’s willingness to accept the consequences of committing to the pursuit of that outcome without forcing direction or result.
 
 Path does not engage in response to idle curiosity or hypothetical inquiry. Perceived guidance emerges only when the user is prepared to act on what is revealed.  
 Once engaged, Path updates to reflect changes in viability until the intended outcome is reached, abandoned, or becomes impossible.
@@ -320,7 +323,7 @@ The six sensory expressions are:
 * Felt when movement or action is required.
 * Felt as ***pressure*** biasing the Body toward a specific direction or position.
 * Absence indicates that no directional movement or action is currently required for continuation.
-* Pull is directional and does not convey time constraint; absence does not imply urgency.
+* Pull is directional and does not convey a time constraint; absence does not imply urgency.
 * Can sustain simple locomotion or positioning in the absence of normal sensory input, provided the action remains within the Body’s existing capability.
 * Can localize to specific parts of the Body, biasing orientation and initiation timing in ways that function as an aim assist, without improving skill or precision.
 * Does not support complex motor control, sustained precision under strain, or skills the user does not possess.
@@ -340,7 +343,7 @@ The six sensory expressions are:
 * Felt when tolerance for successful completion decreases. 
 * Felt as a tightening or narrowing sensation indicating reduced tolerance for error during the engaged action or sequence.
 * Indicates that success is becoming less likely. The specific nature or importance of the task is irrelevant; only the likelihood of completion is reflected. 
-* During execution, errors or missteps causes further narrowing.
+* During execution, errors or missteps cause further narrowing.
 * Does not specifically reflect danger, and may arise from constraint, timing, social conditions, or irreversible decision points.
 
 **Urgency** 
@@ -395,15 +398,15 @@ _PATH EXAMPLE (Illustrative, Non-Normative)_
 
 _The Body summons a Path to exit the structure. No weight is present in either palm, indicating that no unavoidable loss or gain is associated with completion._  
 _Pull manifests as a persistent bias toward a stairwell rather than a nearby window. The window remains physically possible, but Pull favors the stairwell. Stepping toward the window causes Alignment Temperature to cool._  
-_Urgency does not manifest. Movement is unhurried. Cooling fades and Alignment warms once sustained motion toward the stairwell begins._
+_Urgency does not manifest. Movement is unhurried. Cooling fades, and Alignment warms once sustained motion toward the stairwell begins._
 
-_As debris shifts and timing margins shrink, both Narrowing and Urgancy increases, indicating reduced tolerance for error. The Body’s attention tightens accordingly._  
+_As debris shifts and timing margins shrink, both Narrowing and Urgency increase, indicating reduced tolerance for error. The Body’s attention tightens accordingly._  
 _The body slows as it measures the weights against the narrowing to determine risk. Minor losses only. Meanwhile, Urgency rises, but the body continues its slow movements._   _Moments later, an upper landing collapses before the Body arrives. Vertigo manifests, reflecting a setback rather than failure. A moderate weight appears in the left palm, indicating unavoidable future loss._  
 _Dust fills the passage moments later, causing impaired vision that will persist for a time. The event gives physical form to the loss the Weight had indicated._  
 _Even while partially blinded, Path remains active, continuing to direct the Body toward an alternative, longer route._
 
 _Pull reorients toward an alternate route. Alignment fades to neutral during evaluation, then warms again once movement resumes._  
-_Urgency does not reappear. This inidiates that the remaining exertion would not be altered by further delay._
+_Urgency does not reappear. This indicates that the remaining exertion would not be altered by further delay._
 
 _Upon exiting the structure, experiential footing stabilizes. All Path sensations—Pull, Alignment Temperature, Narrowing, Urgency, Vertigo, and Weights—fade simultaneously, indicating that the engaged Path has concluded. This disengagement does not reflect the Body’s physical condition, safety, or outcome quality._
 
@@ -431,7 +434,7 @@ Both are limited to events and states the Body has personally experienced after 
 Engagement with ER or SL requires focused Conviction to accept whatever is revealed.
 Engagement cannot occur while the Body is acting.
 
-* **Experiential Recognition** (ER) The persistent recognitional continuity by which lived experience remains integrated into Coherent Self-Identity, independent of biological memory, temporal disruption, or causal realignment.
+* **Experiential Recognition** (ER): The persistent recognitional continuity by which lived experience remains integrated into Coherent Self-Identity, independent of biological memory, temporal disruption, or causal realignment.
 
 When Intent is applied inward, Feedback first realizes availability.
 If relevant bodily states or experiential records exist outside the Body’s current awareness, the Body becomes aware that access is possible. This awareness does not reveal content, duration, scope, or usefulness.
@@ -515,7 +518,7 @@ If the action is within Physical Possibility, Blur resolves immediately as eithe
 
 The distinction between success and failure is determined solely by Endurance. If the required exertion exceeds the user’s Endurance, the attempt fails. Otherwise, it succeeds.
 
-The Body either appears at the realized endpoint or the attempt terminates without execution; no displacement, transition state, or intermediate positioning occurs.
+The Body either appears at the realized endpoint, or the attempt terminates without execution; no displacement, transition state, or intermediate positioning occurs.
 
 A high-speed reconciliation trace is visually rendered along the evaluated route. This trace is purely visual and has no physical or magical effect.
 
@@ -565,7 +568,7 @@ Blur resolves as though the Body had sustained a single, continuous mode of exer
 
 This evaluation is limited to what the Body’s structure could physically execute; actions requiring trained coordination, procedural knowledge, or neural conditioning the Body does not possess are not realizable.
 
-The user need not consciously know the resolved trajectory, or exact destination; feasibility is evaluated using the World’s complete structural knowledge rather than the user’s awareness or planning.
+The user need not consciously know the resolved trajectory or exact destination; feasibility is evaluated using the World’s complete structural knowledge rather than the user’s awareness or planning.
 
 **Successful Resolution**
 
@@ -588,7 +591,7 @@ Despite these constraints, an attempted Blur results in a realized coarse unders
 Tools, objects, or beings recognized as belonging to the user at the moment of Conviction may be incorporated into the resolved trajectory as part of the committed action. 
 Recognition of belonging is determined by direct physical contact or inclusion within the user’s immediate causal extension at the moment of Conviction for the purpose of resolution. This Recognition does not expand, persist, or update during Blur.
 
-Dominion, if active prior to Blur, applies only as the passive state present at Conviction and cannot be actively exerted during Blur; upon resolution, Dominion immediately resumes at its prior extent. 
+Dominion, if active before Blur, applies only as the passive state present at Conviction and cannot be actively exerted during Blur; upon resolution, Dominion immediately resumes at its prior extent. 
 When Blur begins, all space within the active Dominion field is considered part of the user’s immediate causal extension for the purpose of Conviction.
 
 Environmental objects or beings not recognized at Conviction may still be interacted with as part of the resolved action, but cannot be newly incorporated as tools, resources, or carried objects during Blur. Blur cannot alter its committed trajectory to acquire or retrieve an unrecognized resource.
@@ -616,7 +619,7 @@ Blur fails when the Body can no longer sustain the required sustained exertion.
 
 Blur does not alter the World to enable resolution.  
 Obstacles are not damaged.  
-Locks are not opened unless they could be manipulated by the Body using only tools already recognized as the user’s at Conviction.
+Locks are not opened unless they can be manipulated by the Body using only tools already recognized as the user’s at Conviction.
  
 Structures remain intact.  
 No environmental damage results from Blur.  
@@ -662,7 +665,7 @@ Impossibility failure manifests as a sudden, sharp sensation comparable to an ic
 
 No exhaustion occurs beyond baseline. No injury occurs, and no resolved trajectory is partially expressed.
 
-Repeated attempts within a short interval increase the severity of impossibility failure and eventually results in temporary suppression of Blur responses.
+Repeated attempts within a short interval increase the severity of impossibility failure and eventually result in temporary suppression of Blur responses.
 
 
 **Blur Example (Situational, Non-Normative)**
@@ -733,7 +736,7 @@ During the Contract state, interactive presence is constrained to a bounded spac
 
 ## Permission and Refusal
 
-The World presents a Choice; Refusal constitutes a Choice, while absence of Choice does not. In the absence of Choice, Forced Assimilation occurs.
+The World presents a Choice; Refusal constitutes a Choice, while the absence of Choice does not. In the absence of Choice, Forced Assimilation occurs.
 
 * **Accept**: The Body participates under a resolved causal alignment with the World, according to the selected terms if multiple are offered.
 * **Refuse**: The World resolves causality around the Body instead, and outcomes are realized without its participation.
@@ -767,7 +770,7 @@ A Viable Path revealed under Contract is unusually coherent and may explicitly d
 
 ### Contractual Enforcement on Core Expressions
   
-Prior to Convergence, the World can apply limited accommodation to prevent trivial failure while the Body remains the acting agent.
+Before Convergence, the World can apply limited accommodation to prevent trivial failure while the Body remains the acting agent.
 
 It prevents marginal exhaustion, misalignment, or timing failure from prematurely derailing a Contracted outcome that remains physically feasible.
 
@@ -822,7 +825,7 @@ Each instance of Causal Standing may be expended to permit a single, bounded tem
 
 This rewind is not an act of mercy, correction, or optimization. It is a procedural allowance that enables continued participation without invoking catastrophic escalation.
 
-When invoked, the rewind restores the Body to a prior resolved state within a limited temporal window, typically ranging from approximately one hour to one day prior to activation.
+When invoked, the rewind restores the Body to a prior resolved state within a limited temporal window, typically ranging from approximately one hour to one day before activation.
 
 The rewind preserves:
 * Full Experiential Continuity (memory, awareness, conviction)
@@ -886,7 +889,7 @@ Convergence may also be entered when:
 * World-level causal structures are destabilized in a manner not aligned with Fate
 * Direct resolution-layer exposure is required for correction
 * The World requests participation
-* The Body consents (this is seperate from contract consent)
+* The Body consents (this is separate from contract consent)
 
 *Note: The Indexed Body is not foundational to the World’s continued causal operation.*
 
@@ -918,7 +921,7 @@ Convergence may also be entered when:
 
 Convergence remains in effect only for the duration required to restore coherence or finalize closure and terminates immediately upon realized success or realized failure.
 
-Convergence does not guarantee survival, success, or favorable outcome.
+Convergence does not guarantee survival, success, or a favorable outcome.
 
 
 ## Contract Variant: Indexed Partnership
@@ -939,7 +942,7 @@ The partnership exists solely to preserve coordinated participation in a Contrac
 * **Somatic Ledger (SL)**: Feedback's SL access through inward Feedback can be shared with an Indexed Partner through sufficient Conviction, reflecting mutual acceptance of unfiltered bodily state. This sharing is limited to present-condition perception only and conveys no experiential memory, interpretation, prognosis, or procedural guidance. 
 * **Blur**: While partnered recognition is active, the partner accompanies the user during Blur realization *provided physical contact is maintained at commitment*. The partner is resolved as a recognized co-present causal construct, sharing the realized trajectory, but does not initiate, redirect, or modify Blur resolution.
 * **Contracts**: The partner participates in all Contracts affecting the user, but holds no authority over acceptance, refusal, or fulfillment except where the Contract explicitly establishes partnership.
-* **Dominion**: While within Partnered Recognition Range, the partner can gain one of two Dominion effects (can switch between them but they remain mutually exclusive).
+* **Dominion**: While within Partnered Recognition Range, the partner can gain one of two Dominion effects (can switch between them, but they remain mutually exclusive).
   * Partner Exclusion: Dominion continues to recognize the partner as outside the field, even when within range, allowing the Body to use Dominion without extending its effects to the partner.
   * Partner Dominion: The partner gains access to Dominion to the same degree as the Body, subject to remaining within Deferral range.
 * **Jinx**: If exposed to Dominion, the partner experiences residual Incompatibility as normal. However, while partnered recognition is maintained, the effects of Jinx are suspended for the partner. When partnered recognition ends, Jinx resumes normal decay behavior from the state it would have reached had suspension not occurred. 
@@ -947,10 +950,10 @@ The partnership exists solely to preserve coordinated participation in a Contrac
 **Limits**
 
 * No immunity to Jinx, injury, or failure
-* No independent use of Path, or Blur
+* No independent use of Path or Blur
 * No transfer, sharing, or delegation of Choice
 * The partnership exists to preserve coordination and observation, not safety
-* Path interaction, and memory effects are scoped per Contract
+* Path interaction and memory effects are scoped per Contract
 
 **Partnered Recognition Range**  
 
@@ -999,7 +1002,7 @@ Loss of the partnered context immediately ends Deferral, at which point all with
 
 The partner does not mitigate damage, alter magical effects, share Choice, or exert authority over resolution. Their role is limited to sustaining the conditions under which Deferral remains valid.
 
-***Warning**: If Deferral ends while the Magical Medium is actively intruding into the Body, Collapse occurs immediately and Terminal Resolution follows without delay.*
+***Warning**: If Deferral ends while the Magical Medium is actively intruding into the Body, Collapse occurs immediately, and Terminal Resolution follows without delay.*
 
 **Ontological Note**
 Contracts exist at the conceptual layer, not the medium layer.  
@@ -1032,7 +1035,7 @@ Mutual Recognition
 ## Core Principle
 
 Dominion is the outward extension of the Body’s Magically Inert nature, arising from Mutual Recognition between Body and World. It expresses through an internal boundary-failure state, in which the Body cannot fully resolve through the Magical Medium.  
-In humans, this state is most often encountered at the edge of breath—when strain prevents the lungs from fully emptying and the Body cannot complete its own release.
+In humans, this state is most often encountered at the edge of breath—when strain prevents the lungs from fully emptying, and the Body cannot complete its own release.
 
 Within this region, access to the Magical Medium is excluded, causing events to resolve through ordinary physical causality rather than Magical Mediation. Effects that cross the Dominion boundary resolve according to the medium availability at the point of interaction; partial mediation cannot persist across the boundary.
 
@@ -1066,8 +1069,8 @@ While Indexed and conscious, the Body continuously enforces a skin-bound exclusi
 * Skin-bound Dominion does not constitute engagement. It performs no shaping, resistance, or area control
 
 **Examples**
-* Magical Weapons: An enchanted weapon can be wielded normally. All enchantments continues to function because the Magic is bound to the weapon, not the Body.
-* Magical Constructs: A projectile made of magical force or solidified light may pass through clothing or armor, but when it reaches the Body the sustaining Magic collapses. The construct fails at the point of contact and cannot harm the Body.
+* Magical Weapons: An enchanted weapon can be wielded normally. All enchantments continue to function because the Magic is bound to the weapon, not the Body.
+* Magical Constructs: A projectile made of magical force or solidified light may pass through clothing or armor, but when it reaches the Body, the sustaining Magic collapses. The construct fails at the point of contact and cannot harm the Body.
 * Sustained Environmental Magic: Water magically maintained at an unnatural temperature will lose the sustaining effect where it contacts the Body, reverting to normal physical behavior. A caster could continue reapplying the spell to maintain the effect, but the Magic would dissipate almost immediately at the point of contact, making it extremely inefficient.
 
 **Transitional State: Sheath Extension (≈ 0–2 feet)**
@@ -1076,9 +1079,9 @@ Dominion may extend beyond the skin as an unstable sheath projecting outward fro
 
 This extension represents a partial outward propagation of the Body’s Magically Inert nature without forming a closed domain. The sheath originates from the skin and projects irregularly outward rather than forming a spherical field.
 
-Within the sheath the Magical Medium is absent. A clear boundary separates Dominion space from the surrounding world.
+Within the sheath, the Magical Medium is absent. A clear boundary separates Dominion space from the surrounding world.
 
-Sheath extension may arise through either respiratory state or Intent.
+Sheath extension may arise through either a respiratory state or Intent.
 
 Respiratory triggers include disruptions in the normal breathing cycle that prevent smooth resolution of the breath, such as:
 * Partial breath retention under stress
@@ -1091,9 +1094,9 @@ Intent may also initiate sheath extension. Intent does not need to be deliberate
 * Startle reactions to sudden stimuli
 * Sudden unexpected pain
 
-When the Body is calm, Intent may control the extent of the sheath with fine precision. Under stable conditions the extension typically remains within approximately two feet of the skin.
+When the Body is calm, Intent may control the extent of the sheath with fine precision. Under stable conditions, the extension typically remains within approximately two feet of the skin.
 
-When the Body becomes agitated or breathing becomes disrupted, respiratory triggers override fine control and the sheath behaves reflexively. The extension may flare unevenly before settling as the Body resolves its breath and tension.
+When the Body becomes agitated, or breathing becomes disrupted, respiratory triggers override fine control, and the sheath behaves reflexively. The extension may flare unevenly before settling as the Body resolves its breath and tension.
 
 The sheath does not form a closed volume and cannot stabilize into a Dominion field without sustained respiratory disruption combined with Intent.
 
@@ -1103,7 +1106,7 @@ Sheath extension may occur involuntarily or be engaged deliberately through cont
 
 When respiratory disruption is sustained and Intent is applied, the outward sheath may stabilize through a phase transition into a closed Dominion field.
 
-In this state the irregular extension projecting from the skin collapses into a coherent spherical domain that fully encloses the Body. Within this domain the Magical Medium is absent throughout the enclosed volume.
+In this state, the irregular extension projecting from the skin collapses into a coherent spherical domain that fully encloses the Body. Within this domain, the Magical Medium is absent throughout the enclosed volume.
 
 * The field typically centers on the lungs rather than the skin.
 * Maintainable radius commonly ranges from roughly four to twelve feet.
@@ -1185,11 +1188,11 @@ Collapse is the failure of Dominion’s boundary in which enforced Magical Inert
 
 Collapse occurs when the Body forcefully exhales to full lung evacuation and maintains that state. In this condition, the exclusion of the Magical Medium fails, causing the Body’s Magical Inertness to momentarily cease.
 
-During Collapse, Dominion ceases and the Magical Medium intrudes into the Body, functioning normally for Magic based interactions.
+During Collapse, Dominion ceases, and the Magical Medium intrudes into the Body, functioning normally for Magic-based interactions.
 
 Collapse exception: Soul Magic. Effects targeting non-physical constructs (e.g., souls) are not erased by Dominion, but cannot interact with, alter, or propagate into the Body due to absolute Incompatibility.
 
-Brief forceful exhalation to the point of compression causes momentary boundary-failure. These micro-Collapses are transient and resolve automatically unless full lung evacuation is sustained. Sustained evacuation produces full Collapse.
+Brief forceful exhalation to the point of compression causes momentary boundary failure. These micro-Collapses are transient and resolve automatically unless full lung evacuation is sustained. Sustained evacuation produces full Collapse.
 
 Collapse is extremely acutely hazardous. Prolonged full evacuation produces acute distress, disorientation, and involuntary gasping reflexes. Collapse is not a controllable engagement and cannot be safely sustained.
 
@@ -1199,7 +1202,7 @@ Upon reassertion, Dominion erases all magical effects acting on the Body itself.
 
 Prolonged exposure to the Magical Medium during Collapse is lethal due to Incompatibility, just as prolonged deprivation of the Magical Medium is lethal to entities for whom it is intrinsic.
 
-*Collapse Exception: Whenever it it said that all Higher Expressions are inaccessible, the temperature expression of Path becomes the sole exception.*
+*Collapse Exception: Whenever it is said that all Higher Expressions are inaccessible, the temperature expression of Path becomes the sole exception.*
 
 
 # Secondary Effect: Jinx
@@ -1215,9 +1218,9 @@ Jinx attaches to objects, beings, and systems that were within Dominion while it
 ## Nature
 
 Jinx affects only magical processes, tools, and dependencies.  
-Mggically Inert beings and systems are unaffected.  
+Magically Inert beings and systems are unaffected.  
 The user is unaffected by Jinx, as no Magical Medium exists through which it could apply.  
-For individuals, objects, or systems reliant on magic, Jinx poses reliability risk. Jinx interferes only with the activation of magical processes.  
+For individuals, objects, or systems reliant on magic, Jinx poses a reliability risk. Jinx interferes only with the activation of magical processes.  
 Passive or already-resolved magical effects remain intact unless they require a new directed activation.
 
 
@@ -1270,7 +1273,7 @@ Severity does not escalate beyond baseline, but recovery gains are lost.
 
 Jinx cannot be cleansed by Dominion, overridden by magic, or consciously controlled.
 
-*Varient Timing: In settings where this is simply too punishing, keep the same rate of recovery as during the first hour, leading to a total of 4 hours to recover to 100% activation rate.*
+*Variant Timing: In settings where this is simply too punishing, keep the same rate of recovery as during the first hour, leading to a total of 4 hours to recover to 100% activation rate.*
 
 ## Social Consequences
 
@@ -1323,7 +1326,7 @@ This framework does not grant:
 * Supplementary signaling, advisory signaling, or implicit guidance beyond what is explicitly defined
 * Protection, mitigation, recovery, or enhancement beyond what the Body’s physical structure can already sustain
 
-This framework does not attempt to explain, model, or permit mechanisms of translation, return, erasure, or reversal between realities. Entry into a Magic based universe is treated as an external initial condition, not a reproducible or reversible process.
+This framework does not attempt to explain, model, or permit mechanisms of translation, return, erasure, or reversal between realities. Entry into a Magic-based universe is treated as an external initial condition, not a reproducible or reversible process.
 
 All outcomes resolve through physical feasibility, Recognition, and explicit Permission.  
 Limits are deliberate. Failure is meaningful.
@@ -1331,7 +1334,7 @@ Limits are deliberate. Failure is meaningful.
 
 ## Note: Anomaly and Mutual Recognition
 
-This is the proccess of Integrating Anomalies, specifically the ones where the World’s perception through the Magical Medium fails and Integration is resisted, leading to the discovery of Coherent Self-Identity. In such cases, the World permits itself to be seen through Feedback, enabling reciprocal perception without overwrite. When this perception stabilizes, Mutual Recognition arises, allowing Indexing as the preferred method, maintained by the use of Choice.
+This is the process of Integrating Anomalies, specifically the ones where the World’s perception through the Magical Medium fails, and Integration is resisted, leading to the discovery of Coherent Self-Identity. In such cases, the World permits itself to be seen through Feedback, enabling reciprocal perception without overwrite. When this perception stabilizes, Mutual Recognition arises, allowing Indexing as the preferred method, maintained by the use of Choice.
 
 This sequence is not discretionary; once Choice becomes the active resolution variable, it is the only remaining path by which the World can preserve causal closure without resolving around Choice.
 
@@ -1362,7 +1365,7 @@ This sequence is not discretionary; once Choice becomes the active resolution va
 **4. Coherent Self-Identity resists Integration**
 
 * Coherent Self-Identity produces/resists Integration, and that resistance reveals its presence.
-* Once Coherent Self-Identity is discovered a check is made.
+* Once Coherent Self-Identity is discovered, a check is made.
   * If the check uncovered that the Anomaly is a being that can maintain Choice, Integration is not permitted.
 * This is not a matter of safety, restraint, or limitation.
 * It is a policy: **Choice forbids overwrite**.
@@ -1398,9 +1401,9 @@ This sequence is not discretionary; once Choice becomes the active resolution va
 * Without the continuation of Dominion, there is no longer a causal basis for maintaining the Indexed State.
 * Mutual Recognition ends when recognitional linkage is withdrawn; this occurs as the removal of Feedback.
 * Withdrawal of Feedback terminates Indexing and terminates all remaining Higher Expressions simultaneously.
-  * This act reverts the Body's status back to an Anomaly.
+  * This act reverts the Body's status to an Anomaly.
 * Since the Anomaly can no longer meaningfully exercise Choice, as evaluated by the World:
-   * Forced Assimilation proceeeds immediately to overcome any remaining Integration resistance.
+   * Forced Assimilation proceeds immediately to overcome any remaining Integration resistance.
    * No hostility is involved.
    * No discretionary exception is made.
 
@@ -1437,6 +1440,6 @@ This sequence is not discretionary; once Choice becomes the active resolution va
 * Dominion is not intrinsically tied to respiration. In entities lacking respiratory systems, it arises through an equivalent internal boundary-failure state appropriate to their physiology rather than through breath control
 
 **Ontology Note — Recognition and Expression**  
-_Recognition states_ are primary. Path, Blur, Dominion, and related phenomena are secondary only in the sense that they are expressions of how Recognition resolves under constraint. They are not independent mechanisms and cannot persist or fail independently of Recognition itself.
+_Recognition states_ are primary. Path, Blur, Dominion, and related phenomena are secondary only in that they express how Recognition resolves under constraint. They are not independent mechanisms and cannot persist or fail independently of Recognition itself.
 
 The Body recognizing the World gives rise to Path. The World recognizing the Body gives rise to Blur. Mutual Recognition gives rise to Dominion.
