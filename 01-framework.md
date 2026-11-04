@@ -1,7 +1,3 @@
-NOTE: BLUR CAUSES EXAUSTION SO THAT MEANS IT COUNTS AS CARDIO
-
-
-
 # World Conduct and Mutual Recognition
 
 The ***World*** is not benevolent.
@@ -532,9 +528,9 @@ Blur resolves causally at Conviction and is an all-or-nothing resolution. Partia
 Blur reconciles the full space of physically possible executions of a non-sentient model of the Body outside of time and causality. 
 If a complete execution exists, the Body is realized at the resolved endpoint. The user does not retain awareness or agency during this process, though a coherent sense of the resolved execution will persist afterward.
 
-The outcome of the attempt is determined immediately, based on whether a complete, physically valid trajectory is available for the Body within Physical Possibility, and whether the user’s Endurance is sufficient to afford it. The Body appears at the realized endpoint, or the attempt fails.
+The attempt's outcome is determined immediately, based on whether a complete, physically valid trajectory is available for the Body within Physical Possibility and whether the user’s Endurance is sufficient to afford it. The Body appears at the realized endpoint, or the attempt fails.
 
-The World subsequently renders a high-speed (about as fast as a bullet) reconciliation trace along the evaluated Viable Path. This trace is a visual artifact only and has no physical or magical effect.
+The World subsequently renders a high-speed (twice the speed of sound) reconciliation trace along the evaluated Viable Path. This trace is a visual artifact only and only has one effect: Blur cannot be initiated a second time while a trace is in transit.
 
 _Note: A viable continuation under Path does not imply that the same outcome is reachable through Blur. Path cannot ever predict if a Blur Conviction will work._
 
@@ -543,7 +539,8 @@ _Note: A viable continuation under Path does not imply that the same outcome is 
 
 Blur requires:  
 Primary axis: Conviction  
-Secondary axis: Physical action (taking a step)
+Secondary axis: Physical action (taking a step)  
+Cost: Physical exertion (counts as cardio exercise for physical conditioning and training progression)  
 
 Physical locomotion is not required. Blur can be engaged while the Body remains motionless, restrained, or unable to initiate movement. In such cases, Conviction alone carries the engagement.
 
@@ -575,8 +572,8 @@ The user need not consciously know the resolved trajectory or exact destination;
 * Blur resolves successfully.
 * The Body appears at the resolved endpoint.
 * **Physical exhaustion** may occur.
-
-Only the final exertion state is realized as physical exhaustion. No intermediate states, injuries, or transient conditions carry over.
+  
+Only the final exertion state is realized as physical exhaustion. No intermediate states, injuries, or transient conditions carry over. 
 
 
 ## Resolution Constraints
