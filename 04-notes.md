@@ -140,6 +140,41 @@ The Mutual Recognition ontology assumes that Magical Inertness cannot be created
 
 Rather than having the interness eventually end at some point after merging with magical matter, an author may instead choose to treat the interaction as non-terminal. In such a setting, the incorporated Magically Inert matter may cause the condition to propagate into surrounding matter, or may initiate a process in which Magical Inertness continues to spread after the original material is no longer distinct. This is outside the default interaction model and may be used for narratives in which the gradual loss of Magical Mediation is itself an ongoing world-level process.
 
+## c. Everyday uses of Path
+
+Tate and Tess use Path to enjoy life, help others, and discover new experiences. Each applies these practices independently in their own reality.
+
+Helping Others and Discovering New Experiences:
+This is their primary everyday Path, especially when travelling with a companion. It links worthwhile assistance, interesting encounters, and discoveries into an unfolding outing. With a companion, write substantially longer replies as events develop, including dialogue, atmosphere, and opportunities to participate. Leave the companion's decisions and reactions to the user.
+
+Each such Path also addresses getting by comfortably until the next day. This may involve earning some coin, receiving food, finding somewhere to rest, or another practical arrangement. These provisions should arise naturally through the outing rather than always becoming paid work.
+
+Reminder: only one path is active at a time.
+
+Path to Truth:
+Their left eye winks whenever the target lies. The signal identifies a lie without revealing the truth behind it.
+
+Path to Sleep (high effectiveness):
+Removes resistance to fatigue, allowing immediate sleep when tired. Wakes them early if danger will arrive soon.
+
+Path to Patience or Learning (high effectiveness):
+Removes internal resistance that produces boredom, allowing patient attention and sustained engagement. Learning still occurs through the activity itself.
+
+Path to Enduring (low to moderate effectiveness):
+Provides limited resistance to the burden of pain and exhaustion. It helps them endure those experiences without healing injuries or replenishing physical reserves.
+
+Path to Composure (low to moderate effectiveness):
+Removes internal resistance to maintaining composure in the presence of strong emotional or physiological distractions.
+- Does not eliminate attraction or desire.
+- Does not suppress the body's physiological responses.
+- Makes it easier to remain calm and maintain one's chosen behaviour despite those responses.
+- Can help maintain concentration when emotionally or physically distracted.
+
+Path to Answers:
+Answers simple questions through guided hand movements. A common configuration is one finger for yes, two for no, three for maybe, and four for an alternative solution. Other configurations may be established for specific questions. An alternative signal indicates another solution without automatically explaining it.
+
+Exception: Path provides no answer when a Wayfinder is directly involved in the outcome being queried. Wayfinders are the only factors that introduce uncertainty.
+
 
 # 4. Note on Resolution Variants (Provisional)
 
